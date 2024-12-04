@@ -1,12 +1,10 @@
 # Learning basic infrastructure-as-code skills
 ![proc-style](https://github.com/Shinya-GitHub-Center/Shinya-GitHub-Center/assets/129726604/8e8599b2-4e0a-4ebc-b7c2-1c9ae67f123b)
 
-**and**
-
 ![decl-style](https://github.com/Shinya-GitHub-Center/Shinya-GitHub-Center/assets/129726604/da82c177-b2fb-43f6-9051-6ee289c34ac5)
 ## To learn IaaS and IaC @ major cloud vendors (Wiki Pages)
 ### [AWS](https://github.com/Shinya-GitHub-Center/awscli-docker/wiki)
-### [Azure](https://github.com/Shinya-GitHub-Center/azucli-docker/wiki)
+### Google Cloud (Under Construction)
 
 ## Why should we study AUTOMATION SKILLS now??
 As you guys may have noticed, this world is going to be transformed into something like a **dystopia** based society sooner or later...., so we are forced to be get accustomed to it.  
