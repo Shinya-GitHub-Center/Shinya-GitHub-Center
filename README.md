@@ -1,4 +1,4 @@
-# 🌐 Human APIs - Perceiving Humans as APIs
+# 🌐 Human APIs - Human as an API (HaaA)
 
 ## In search of ways to bridge various communities via a Human API.
 
@@ -8,7 +8,7 @@
 
 Hello, I'm Shinya Ihara.
 
-I explore connections not only within the programming community but also across various different communities, based on the philosophy that **human extremities (hands, feet, etc.) may function like API endpoints**.
+Everyday, I am trying to explore connections not only within the programming community but also across various different communities, based on my philosophy that **human extremities (hands, feet, etc.) may function like API endpoints**.
 
 ## 💡 Concept: Human APIs
 
@@ -20,23 +20,23 @@ From an AI's perspective, could humans be seen as entities with API-like interfa
 - **Left foot tip** is an endpoint to `Community D`
 - Other physical extremities
 
-Each community has its own culture, language, and protocols. While feeling nervous, I want to approach each community step by step, searching for **common protocols** to connect with them.
+Each community has its own culture, language, and protocols. While feeling nervous, I do not forget to approach each community step by step, searching for **common protocols** to connect with them.
 
 ## 🎬 Origins: Multi-Angle (Around 2010)
 
 ![multi-angle-pic](images/multi-angle-pic.jpg)
 
 Around 2010, I was active as a musician. At that time, I didn't yet have the concept of "API."  
-However, through an experimental DVD work that **utilized DVD multi-angle features while simulating the correspondence of each limb's extremity to Dolby 5.1ch speakers**, I pursued the idea of **experiencing content simultaneously from multiple perspectives**.
+However, through an experimental DVD work that **utilized DVD multi-angle features while mapping each limb's extremity to each Dolby 5.1ch speakers**, I pursued the idea of **experiencing content simultaneously from multiple perspectives**.
 
 Looking back, this may have been a manifestation of my desire to "connect with different perspectives and communities simultaneously."  
-Right hand as left front speaker (LF), left hand as right front speaker (RF), face extremity as center speaker, belly extremity as subwoofer, right foot tip as left surround speaker (LS), left foot tip as right surround speaker (RS)—each "human endpoint" was an interface with people having different perspectives (or so I like to think).
+Right hand as left front speaker (LF), left hand as right front speaker (RF), face extremity as center speaker, my embarrassing belly extremity as subwoofer, right foot tip as left surround speaker (LS), left foot tip as right surround speaker (RS)—each "human endpoint" was an interface with people having different perspectives (or so I like to think).
 
 ※This [self-made DVD](#) was sold to some people when I was previously active as "Musical Persona."
 
 ## 🚀 The Journey Ahead
 
-I will continue to step into various communities, engaging in dialogue carefully while feeling nervous, and refining my **human API interface**.
+I will continue to step into various communities, engaging in dialogue with 'em carefully even though me-feeling nervous, then refining my role as **human API interface**.
 
 - 🎵 Music
 - 💻 Programming
@@ -44,15 +44,15 @@ I will continue to step into various communities, engaging in dialogue carefully
 - 📚 Learning
 - 🤝 Community
 
-Connecting different communities and creating new value—this may be what I aspire to become.
+Connecting different communities and creating new value—this may be what I aspire to become...
 
-## 📫 Connect with Shinya API
+## 📫 Connect with Shinya's API
 
-Feel free to access from each end(entry)point:
+Feel free to access from each end (entry) point:
 
 - 💻 "Me" as IT Solution Persona: [@Shinya-GitHub-Center](https://github.com/Shinya-GitHub-Center)
 - 🌟 **Portfolio Site**: Coming soon...
-- 🎵 "Me" as Music Persona: [@Dokaka](https://dokaka.com/contact)
+- 🎵 "Me" as Musical Persona: [@Dokaka](https://dokaka.com/contact)
 
 ### "Every human is an API, connecting different worlds through their unique endpoints."
 
