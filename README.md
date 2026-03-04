@@ -1,10 +1,10 @@
 # 🌐 Human APIs - Human as an API (HaaA)
 
-## In search of ways to bridge various communities via a Human API.
+## In search of ways to bridge various communities via a Human API...
 
 ![human-apis-main-pic](images/human-apis-main-pic.jpg)
 
-## 👋 Welcome
+## 👋 (English) Welcome (The content is identical to the Japanese)
 
 Hello, I'm Shinya Ihara.
 
@@ -60,13 +60,13 @@ Feel free to access from each end (entry) point:
 
 ---
 
-# 🌐 Human APIs - 人間をAPIとして捉える
+# 🌐 Human APIs - 人間をAPIとして捉える（APIとしての人間的役割）
 
-## ヒューマンAPIを通じて様々な界隈をつなぐ役割を探して。。。
+## ヒューマンAPIを通じて、様々な界隈をつなぐ役割を探すこと。
 
 ![human-apis-main-pic](images/human-apis-main-pic.jpg)
 
-## 👋 ようこそ / Welcome
+## 👋 （日本語）ようこそ（英語と同じ内容です）
 
 はじめまして、Shinya Iharaです。
 
