@@ -52,7 +52,7 @@ Feel free to access from each end (entry) point:
 
 - 💻 "Me" as IT Solution Persona: [@Shinya-GitHub-Center](https://github.com/Shinya-GitHub-Center)
 - 🌟 **Portfolio Site**: Coming soon...
-- 🎵 "Me" as Musical Persona: [@Dokaka](https://dokaka.com/contact)
+- 🎵 "Me" as Musical Persona: [@Dokaka](https://dokaka.com/)
 
 ### "Every human works as an API, connecting different worlds through their unique endpoints."
 
@@ -114,7 +114,7 @@ Feel free to access from each end (entry) point:
 
 - 💻 ITソリューションペルソナとしての「私」: [@Shinya-GitHub-Center](https://github.com/Shinya-GitHub-Center)
 - 🌟 **ポートフォリオサイト**: 準備中...
-- 🎵 音楽ペルソナとしての「私」: [@Dokaka](https://dokaka.com/contact)
+- 🎵 音楽ペルソナとしての「私」: [@Dokaka](https://dokaka.com/)
 
 ### 「すべての人間はAPIである。それぞれ独自のエンドポイントで異なる世界をつないでいる」
 
