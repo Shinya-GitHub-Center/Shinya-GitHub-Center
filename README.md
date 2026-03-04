@@ -60,9 +60,9 @@ Feel free to access from each end (entry) point:
 
 ---
 
-# 🌐 Human APIs - 人間をAPIとして捉える（APIとしての人間的役割）
+# 🌐 Human APIs - 人間をAPIとして捉える
 
-## ヒューマンAPIを通じて、様々な界隈をつなぐ役割を探すこと。
+## ヒューマンAPIを通じて様々な界隈をつなぐ役割を探すこと。
 
 ![human-apis-main-pic](images/human-apis-main-pic.jpg)
 
