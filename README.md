@@ -10,8 +10,6 @@ Hello, I'm Shinya Ihara.
 
 I explore connections not only within the programming community but also across various different communities, based on the philosophy that **human extremities (hands, feet, etc.) may function like API endpoints**.
 
----
-
 ## 💡 Concept: Human APIs
 
 From an AI's perspective, could humans be seen as entities with API-like interfaces?
@@ -23,8 +21,6 @@ From an AI's perspective, could humans be seen as entities with API-like interfa
 - Other physical extremities
 
 Each community has its own culture, language, and protocols. While feeling nervous, I want to approach each community step by step, searching for **common protocols** to connect with them.
-
----
 
 ## 🎬 Origins: Multi-Angle (Around 2010)
 
@@ -38,8 +34,6 @@ Right hand as left front speaker (LF), left hand as right front speaker (RF), fa
 
 ※This [self-made DVD](#) was sold to some people when I was previously active as "Musical Persona."
 
----
-
 ## 🚀 The Journey Ahead
 
 I will continue to step into various communities, engaging in dialogue carefully while feeling nervous, and refining my **human API interface**.
@@ -52,8 +46,6 @@ I will continue to step into various communities, engaging in dialogue carefully
 
 Connecting different communities and creating new value—this may be what I aspire to become.
 
----
-
 ## 📫 Connect with Shinya API
 
 Feel free to access from each end(entry)point:
@@ -61,8 +53,6 @@ Feel free to access from each end(entry)point:
 - 💻 "Me" as IT Solution Persona: [@Shinya-GitHub-Center](https://github.com/Shinya-GitHub-Center)
 - 🌟 **Portfolio Site**: Coming soon...
 - 🎵 "Me" as Music Persona: [@Dokaka](https://dokaka.com/contact)
-
----
 
 ### "Every human is an API, connecting different worlds through their unique endpoints."
 
@@ -82,8 +72,6 @@ Feel free to access from each end(entry)point:
 
 私は、**人間の先端部（手足等）がAPIエンドポイントのように働くのではないか**という哲学のもと、プログラミング界隈だけでなく、様々な異なる界隈とのつながりを探求しています。
 
----
-
 ## 💡 コンセプト：Human APIs
 
 人間とはAI側から見ると、あたかもAPIのようなインターフェースを持つ存在ではないだろうか。。。
@@ -95,8 +83,6 @@ Feel free to access from each end(entry)point:
 - その他の肉体的先端部
 
 それぞれの界隈には異なる文化や言語、プロトコルがあります。私は、ビビリながらも、それぞれの界隈と**共通のプロトコル**を探しながら、一歩一歩近づいていきたいと考えています。
-
----
 
 ## 🎬 原点：マルチアングル（2010年前後）
 
@@ -110,8 +96,6 @@ Feel free to access from each end(entry)point:
 
 ※この[自作DVD](#)は、私が以前「ミュージカルペルソナ」として活動していた時に一部の方々に販売していたものです。
 
----
-
 ## 🚀 これからの旅
 
 私は、これからも様々な界隈へと足を踏み入れ、ビビリながらもしっかりと対話を重ねながら、**人間としてのAPIインターフェース**を磨いていきます。
@@ -124,8 +108,6 @@ Feel free to access from each end(entry)point:
 
 異なる界隈をつなぎ、新しい価値を生み出すこと。それが私の目指す姿なのかもしれません。
 
----
-
 ## 📫 Shinya API とつながる
 
 各エンド（エントリー）ポイントから、お気軽にアクセスしてください：
@@ -134,7 +116,6 @@ Feel free to access from each end(entry)point:
 - 🌟 **ポートフォリオサイト**: 準備中...
 - 🎵 音楽ペルソナとしての「私」: [@Dokaka](https://dokaka.com/contact)
 
----
 ### 「すべての人間はAPIである。それぞれ独自のエンドポイントで異なる世界をつないでいる」
 
 ※ このプロフィール文章は約30％がAIが書き、残り70％が私（人間）が書きました。
