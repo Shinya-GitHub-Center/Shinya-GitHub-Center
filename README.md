@@ -54,7 +54,7 @@ Feel free to access from each end (entry) point:
 - 🌟 **Portfolio Site**: Coming soon...
 - 🎵 "Me" as Musical Persona: [@Dokaka](https://dokaka.com/contact)
 
-### "Every human is an API, connecting different worlds through their unique endpoints."
+### "Every human works as an API, connecting different worlds through their unique endpoints."
 
 ※ This profile text was written approximately 30% by AI and 70% by me (human).
 
