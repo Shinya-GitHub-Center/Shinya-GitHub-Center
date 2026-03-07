@@ -3,6 +3,7 @@
 ## In search of ways to bridge various communities via a Human API...
 
 ![human-apis-main-pic](images/human-apis-main-pic.jpg)
+※ The logo on the shirt is not 'those stripes'; it’s actually a curved line.
 
 ## 👋 (English) Welcome (The content is identical to the Japanese)
 
@@ -18,7 +19,7 @@ From an AI's perspective, could humans be seen as entities with API-like interfa
 - **Left arm tip** is an endpoint to `Community B`
 - **Right foot tip** is an endpoint to `Community C`
 - **Left foot tip** is an endpoint to `Community D`
-- Other physical extremities
+- Other physical extremities (excluding any parts that may be reminiscent of the Epstein Affair)
 
 Each community has its own culture, language, and protocols. While feeling nervous, I do not forget to approach each community step by step, searching for **common protocols** to connect with them.
 
@@ -65,6 +66,7 @@ Feel free to access from each end (entry) point:
 ## ヒューマンAPIを通じて様々な界隈をつなぐ役割を探すこと。
 
 ![human-apis-main-pic](images/human-apis-main-pic.jpg)
+※ シャツのロゴは「あの縞模様」ではなく、弧を描いた曲線ですからね
 
 ## 👋 （日本語）ようこそ（英語と同じ内容です）
 
@@ -80,7 +82,7 @@ Feel free to access from each end (entry) point:
 - **左腕先端部** は `B界隈` とのエンドポイント  
 - **右足先端部** は `C界隈` とのエンドポイント
 - **左足先端部** は `D界隈` とのエンドポイント
-- その他の肉体的先端部
+- その他の肉体的先端部（エプスタイン事件を想起させるような部位は除外しております）
 
 それぞれの界隈には異なる文化や言語、プロトコルがあります。私は、ビビリながらも、それぞれの界隈と**共通のプロトコル**を探しながら、一歩一歩近づいていきたいと考えています。
 
