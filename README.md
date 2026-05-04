@@ -54,6 +54,8 @@ Feel free to access from each end (entry) point:
 - 💻 "Me" as IT Solution Persona: [@Shinya-GitHub-Center](https://github.com/Shinya-GitHub-Center)
 - 🌟 **Portfolio Site**: Coming soon...
 - 🎵 "Me" as Musical Persona: [@Dokaka](https://dokaka.com/)
+- 🌐 Special Site: ["The limits of my language mean the limits of my world"](https://gist.github.com/Shinya-GitHub-Center)
+  > ※ On this special site (GitHub Gist), stepping a little away from the music and programming fields, I compile short daily dialogues with AI into simple markdown files — exploring how we should face and respond to the upcoming dystopian surveillance society. Please note that these writings are the result of using AI as a tool to organize my own subjective thought experiments, and may differ from objective facts, so please treat them as a reference only. Currently Japanese language  outputs only (via direct extraction from my brain).
 
 ### "Every human works as an API, connecting different worlds through their unique endpoints."
 
@@ -117,6 +119,8 @@ Feel free to access from each end (entry) point:
 - 💻 ITソリューションペルソナとしての「私」: [@Shinya-GitHub-Center](https://github.com/Shinya-GitHub-Center)
 - 🌟 **ポートフォリオサイト**: 準備中...
 - 🎵 音楽ペルソナとしての「私」: [@Dokaka](https://dokaka.com/)
+- 🌐 特設サイト: [「私の言語の限界が私の世界の限界を意味する」](https://gist.github.com/Shinya-GitHub-Center)
+  > ※こちらの特設サイト（GitHub Gist）では、少し音楽やプログラミング分野から離れて、来る監視社会へ向けて我々庶民はいったいどういった態度で向き合っていくべきかについて、日々短いAIとの対話を通じて、簡単にマークダウンファイルにまとめています。これらのアウトプット文章は、あくまでAIをツールとして利用し、私自身の主観的思考実験を整理したものなので、客観的事実とは異なる場合がございますので、参考程度にご覧になってみてください。
 
 ### 「すべての人間はAPIである。それぞれ独自のエンドポイントで異なる世界をつないでいる」
 
